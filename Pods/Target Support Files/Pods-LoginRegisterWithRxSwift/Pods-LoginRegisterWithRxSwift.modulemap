@@ -1,0 +1,6 @@
+framework module Pods_LoginRegisterWithRxSwift {
+  umbrella header "Pods-LoginRegisterWithRxSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
