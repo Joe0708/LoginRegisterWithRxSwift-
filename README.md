@@ -1,5 +1,5 @@
 
 # Using RxSwift to achieve login, registration
 
-![](https://github.com/Joe0708/RxSwift-Tutorial/blob/master/Demo.gif)
+![](https://github.com/Joe0708/LoginRegisterWithRxSwift-/blob/master/Demo.gif)
 
